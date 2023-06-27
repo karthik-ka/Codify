@@ -13,6 +13,8 @@ Whether you're a beginner learning web development provides an intuitive and use
 <h2>Screenshots of the Project 📸</h2>
 <br>
 <div align='center'>
-![screenshot](/public/Screenshot.png)
+  
+![screenshot](https://github.com/karthik-ka/Codify/blob/main/public/Screenshot%20.png?raw=true)
+
 </div>
 
