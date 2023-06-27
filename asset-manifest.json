@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Codify/static/css/main.74472084.css",
+    "main.js": "/Codify/static/js/main.d116d6d6.js",
+    "index.html": "/Codify/index.html",
+    "main.74472084.css.map": "/Codify/static/css/main.74472084.css.map",
+    "main.d116d6d6.js.map": "/Codify/static/js/main.d116d6d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74472084.css",
+    "static/js/main.d116d6d6.js"
+  ]
+}
