@@ -1,0 +1,40 @@
+.flex{
+  display: flex;
+}
+
+.main-container{
+  flex-grow: 1;
+  flex-basis: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 4px 6px;
+}
+.header{
+  background: #090908;
+  color:#AAAF;
+  display:flex;
+  justify-content:space-between;
+  flex-grow: 1;
+}
+.heading{
+  background: #1d1e22;
+  width: 5rem;
+  display:flex;
+  padding: 9px 12px;
+  color: white;
+}
+footer{
+  position: absolute;
+  top: 100%;
+  left: 0%;
+  width: 98.8%;
+  background-color: #090908;
+  padding: 0.5rem;
+}
+.footer{
+  font-size: small;
+  top: 100%;
+  left: 50%;
+  text-align: center;
+  color: white;
+}
