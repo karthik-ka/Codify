@@ -17,4 +17,4 @@ Whether you're a beginner learning web development provides an intuitive and use
 ![screenshot](https://github.com/karthik-ka/Codify/blob/main/public/Screenshot%20.png?raw=true)
 
 </div>
-
+<h4>Demo link: https://karthik-ka.github.io/Codify/ </h4>
